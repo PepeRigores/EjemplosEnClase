@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(52, 49, 49);
+    color: rgb(235, 248, 136);
+}
+.caja1{
+    background-color: rgb(99, 157, 157);
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    border: 3px solid black;
+    box-sizing: border-box;
+    font-size: 40px;
+    overflow: visible;
+}
+.caja2{
+    background-color: rgb(106, 75, 37);
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    border: 3px solid black;
+    box-sizing: border-box;
+    font-size: 40px;
+    overflow: visible;
+    margin: 40px;
+}
+.caja3{
+    background-color: rgb(179, 167, 154);
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    border: 3px solid black;
+    box-sizing: border-box;
+    font-size: 40px;
+    overflow: visible;
+    margin: 15px;
+}
+.flex-container{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 80px;
+    padding: 50px;
+    border:  3px solid black;
+    flex-wrap: wrap;
+
+}

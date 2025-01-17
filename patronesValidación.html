@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patrones Validación</title>
+</head>
+<body>
+    <form action="">
+        <input type="text" pattern="[A-Za-z]+" title="Solo letras, sin espacios" required>
+        <input type="text" pattern="\d+" title="Solo números enteros positivos">
+        <input type="text" pattern="\d{5}" title="Código postal de 5 dígitos">
+        <input type="tel" pattern="\d{9}" title="Número de teléfono de 9 dígitos" maxlength="9">
+        <input type="password" pattern="(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}" title="Mínimo 8 caracteres, incluyendo al menos una letra y un número">
+        <input type="DNI" pattern="\d{8}[A-Z]" maxlength="9" title="El DNI tiene que tener 8 numeros y una letra al mayuscula al final">
+        <input type="submit">
+    </form>
+</body>
+</html>

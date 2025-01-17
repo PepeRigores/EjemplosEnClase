@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html lang="es">
+   <head>
+	<meta charset="UTF-8">
+	<title>Peliculas y disponibilidad</title>
+	<style>
+	   table{ border-collapse: collapse;
+		}
+	   th{
+		border: 2px solid black;
+		padding: 15px 40px 15px 40px;
+	     }
+	   td{
+		border: 1px solid black;
+		padding: 15px;
+	     }
+	</style>
+   </head>
+   <body>
+	<table>
+	   <caption><h3>Disponibilidad de entradas por película</h3></caption>
+		<tr>
+		   <th>Pelicula</th>
+		   <th>Entradas</th>
+		</tr>
+		<tr>
+		   <td>Smile II</td>
+		   <td>12</td>
+		</tr>
+
+<!--para td (datos de la fila) con el atributo rowspan le digo que el dato ocupa 2 filas-->
+		<tr>
+		   <td>Shrek</td>
+		   <td rowspan="2">25</td>
+		</tr>
+		<tr>
+		   <td>Deadpool III</td>
+		</tr>
+
+<!--para td (datos de la fila) con el atributo colspan le digo que el dato ocupa 2 columnas-->
+		<tr>
+		</tr>
+	</table>
+   </body>
+</html>
