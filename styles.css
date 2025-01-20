@@ -46,3 +46,37 @@ body{
     /* flex-wrap: wrap; */
 
 }
+
+header{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 0px;
+}
+.nav-container{
+    background-color: rgb(17, 17, 17);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* padding: 2px; 
+    border: 3px solid rgb(248, 239, 239); */
+    margin: 0px;
+}
+
+.item-nav{
+    background-color: rgb(52, 50, 47);
+    color: white;
+    padding: 30px;
+    border: 3px solid black;
+    margin: 0px;
+}
+ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
