@@ -1,0 +1,49 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #edc4c4;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.parent {
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 8px;
+}
+    
+.header {
+    background-color: antiquewhite;
+    grid-column: span 2 / span 2;
+}
+
+.menu {
+    background-color: antiquewhite;
+    grid-column: span 2 / span 2;
+    grid-row-start: 2;
+}
+
+.contenido1 {
+    background-color: antiquewhite;
+    grid-row-start: 3;
+}
+
+.contenido2 {
+    background-color: antiquewhite;
+    grid-row-start: 3;
+}
+
+.footer {
+    background-color: antiquewhite;
+    grid-column: span 2 / span 2;
+    grid-row-start: 4;
+}
