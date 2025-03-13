@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Tech Trends Blog</title>
+    <link>https://www.techtrendsblog.com</link>
+    <description>Las últimas novedades del mundo tecnológico</description>
+    <language>es</language>
+
+    <item>
+      <title>Nuevo smartphone con batería de grafeno revoluciona el mercado</title>
+      <link>https://www.techtrendsblog.com/nuevo-smartphone-grafeno</link>
+      <description>Una empresa tecnológica ha presentado el primer smartphone con batería de grafeno, un material que permite una carga ultrarrápida y una mayor durabilidad. Este dispositivo promete superar las limitaciones de las baterías de ion de litio, ofreciendo hasta una semana de autonomía con una sola carga.</description>
+      <pubDate>Tue, 11 Mar 2025 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Intel presenta su procesador de 3 nm con IA integrada</title>
+      <link>https://www.techtrendsblog.com/intel-procesador-3nm</link>
+      <description>Intel ha revelado su nueva generación de procesadores de 3 nm, diseñados para ofrecer un rendimiento superior y un menor consumo energético. Estos chips incorporan capacidades avanzadas de inteligencia artificial, lo que permitirá mejorar el procesamiento de tareas complejas en tiempo real y optimizar la eficiencia en servidores y dispositivos de consumo.</description>
+      <pubDate>Tue, 11 Mar 2025 10:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Las gafas de realidad aumentada de Apple llegarán este año</title>
+      <link>https://www.techtrendsblog.com/gafas-ar-apple</link>
+      <description>Apple ha confirmado el lanzamiento de sus esperadas gafas de realidad aumentada, las cuales contarán con un diseño liviano, integración con Siri y una pantalla de alta resolución. Se espera que revolucionen la manera en que interactuamos con la información digital, permitiendo experiencias inmersivas tanto para el entretenimiento como para la productividad.</description>
+      <pubDate>Tue, 11 Mar 2025 13:15:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

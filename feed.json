@@ -1,0 +1,28 @@
+{
+"version": "https://jsonfeed.org/version/1",
+"title": "Tech Trends Blog",
+"home_page_url": "https://www.techtrendsblog.com",
+"items": [
+    {
+    "id": "1",
+    "title": "Nuevo smartphone con batería de grafeno revoluciona el mercado",
+    "url": "https://www.techtrendsblog.com/nuevo-smartphone-grafeno",
+    "content_text": "Una empresa tecnológica ha presentado el primer smartphone con batería de grafeno, un material que permite una carga ultrarrápida y una mayor durabilidad. Este dispositivo promete superar las limitaciones de las baterías de ion de litio, ofreciendo hasta una semana de autonomía con una sola carga.",
+    "date_published": "2025-03-11T08:00:00Z"
+    },
+    {
+    "id": "2",
+    "title": "Intel presenta su procesador de 3 nm con IA integrada",
+    "url": "https://www.techtrendsblog.com/intel-procesador-3nm",
+    "content_text": "Intel ha revelado su nueva generación de procesadores de 3 nm, diseñados para ofrecer un rendimiento superior y un menor consumo energético. Estos chips incorporan capacidades avanzadas de inteligencia artificial, lo que permitirá mejorar el procesamiento de tareas complejas en tiempo real y optimizar la eficiencia en servidores y dispositivos de consumo.",
+    "date_published": "2025-03-11T10:30:00Z"
+    },
+    {
+    "id": "3",
+    "title": "Las gafas de realidad aumentada de Apple llegarán este año",
+    "url": "https://www.techtrendsblog.com/gafas-ar-apple",
+    "content_text": "Apple ha confirmado el lanzamiento de sus esperadas gafas de realidad aumentada, las cuales contarán con un diseño liviano, integración con Siri y una pantalla de alta resolución. Se espera que revolucionen la manera en que interactuamos con la información digital, permitiendo experiencias inmersivas tanto para el entretenimiento como para la productividad.",
+    "date_published": "2025-03-11T13:15:00Z"
+    }
+  ]
+}
